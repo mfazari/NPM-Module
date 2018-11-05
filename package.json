@@ -1,0 +1,23 @@
+{
+  "name": "npm-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfazari/NPM-Module.git"
+  },
+  "keywords": [
+    "new",
+    "module"
+  ],
+  "author": "Massimo Fazari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfazari/NPM-Module/issues"
+  },
+  "homepage": "https://github.com/mfazari/NPM-Module#readme"
+}
